@@ -1,0 +1,13 @@
+com/aws/codestar/projecttemplates/model/SearchModel.class
+com/aws/codestar/projecttemplates/GatewayResponse.class
+com/aws/codestar/projecttemplates/model/Offer.class
+com/aws/codestar/projecttemplates/handler/CreateMemberHandler.class
+com/aws/codestar/projecttemplates/handler/SearchHandler.class
+com/aws/codestar/projecttemplates/handler/IndexHandler.class
+com/aws/codestar/projecttemplates/Application.class
+com/aws/codestar/projecttemplates/handler/DeleteCollectionHandler.class
+com/aws/codestar/projecttemplates/handler/CreateCollectionHandler.class
+com/aws/codestar/projecttemplates/model/IndexModel.class
+com/aws/codestar/projecttemplates/util/Core.class
+com/aws/codestar/projecttemplates/handler/HelloWorldHandler.class
+com/aws/codestar/projecttemplates/model/Customer.class
